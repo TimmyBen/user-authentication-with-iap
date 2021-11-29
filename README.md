@@ -4,3 +4,5 @@
 
 This repository contains the code for the User Authentication with
 Identity-Aware Proxy codelab.
+
+https://github.com/googlecodelabs/user-authentication-with-iap
